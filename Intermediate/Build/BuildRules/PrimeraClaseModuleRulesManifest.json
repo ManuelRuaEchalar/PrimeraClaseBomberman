@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\jruae\\Documents\\Unreal Projects\\PrimeraClase\\Source\\PrimeraClase\\PrimeraClase.Build.cs",
+		"C:\\Users\\jruae\\Documents\\Unreal Projects\\PrimeraClase\\Source\\PrimeraClase.Target.cs",
+		"C:\\Users\\jruae\\Documents\\Unreal Projects\\PrimeraClase\\Source\\PrimeraClaseEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

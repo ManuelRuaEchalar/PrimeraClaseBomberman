@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PrimeraClase.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{08A6D0F2-5633-4084-A4D5-6AC39E12EB08}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PrimeraClase.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PrimeraClaseEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B67FD8C2-1620-4DD2-AF86-C1DCEA204997}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PrimeraClase">
+      <UniqueIdentifier>{B1EB500B-9008-44E3-9CE2-3D2D7CBF7B6B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PrimeraClase\BoarCamera.cpp">
+      <Filter>Source\PrimeraClase</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrimeraClase\BoarCamera.h">
+      <Filter>Source\PrimeraClase</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PrimeraClase\Cubo.cpp">
+      <Filter>Source\PrimeraClase</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrimeraClase\Cubo.h">
+      <Filter>Source\PrimeraClase</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PrimeraClase\Enemigo.cpp">
+      <Filter>Source\PrimeraClase</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrimeraClase\Enemigo.h">
+      <Filter>Source\PrimeraClase</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PrimeraClase\EnemigoMadera.cpp">
+      <Filter>Source\PrimeraClase</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrimeraClase\EnemigoMadera.h">
+      <Filter>Source\PrimeraClase</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PrimeraClase\EnemigoMetal.cpp">
+      <Filter>Source\PrimeraClase</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrimeraClase\EnemigoMetal.h">
+      <Filter>Source\PrimeraClase</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PrimeraClase\MyProjectPawn.cpp">
+      <Filter>Source\PrimeraClase</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrimeraClase\MyProjectPawn.h">
+      <Filter>Source\PrimeraClase</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\PrimeraClase\PrimeraClase.Build.cs">
+      <Filter>Source\PrimeraClase</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PrimeraClase\PrimeraClase.cpp">
+      <Filter>Source\PrimeraClase</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrimeraClase\PrimeraClase.h">
+      <Filter>Source\PrimeraClase</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PrimeraClase\PrimeraClaseGameModeBase.cpp">
+      <Filter>Source\PrimeraClase</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrimeraClase\PrimeraClaseGameModeBase.h">
+      <Filter>Source\PrimeraClase</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PrimeraClase\Puntuacion.cpp">
+      <Filter>Source\PrimeraClase</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrimeraClase\Puntuacion.h">
+      <Filter>Source\PrimeraClase</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

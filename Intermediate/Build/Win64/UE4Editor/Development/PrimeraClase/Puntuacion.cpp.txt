@@ -1,0 +1,5 @@
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\Definitions.PrimeraClase.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Source\PrimeraClase\Puntuacion.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Inc\PrimeraClase\Puntuacion.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/TextRenderComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextRenderComponent.generated.h

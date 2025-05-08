@@ -1,0 +1,7 @@
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\Definitions.PrimeraClase.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Source\PrimeraClase\BoarCamera.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CinematicCamera\Public\CineCameraActor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraActor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraActor.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\CinematicCamera\CineCameraActor.generated.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Inc\PrimeraClase\BoarCamera.generated.h

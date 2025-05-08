@@ -1,0 +1,2 @@
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\Definitions.PrimeraClase.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Source\PrimeraClase\PrimeraClase.h

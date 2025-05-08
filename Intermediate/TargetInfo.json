@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PrimeraClase",
+			"Path": "C:\\Users\\jruae\\Documents\\Unreal Projects\\PrimeraClase\\Source\\PrimeraClase.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PrimeraClaseEditor",
+			"Path": "C:\\Users\\jruae\\Documents\\Unreal Projects\\PrimeraClase\\Source\\PrimeraClaseEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
