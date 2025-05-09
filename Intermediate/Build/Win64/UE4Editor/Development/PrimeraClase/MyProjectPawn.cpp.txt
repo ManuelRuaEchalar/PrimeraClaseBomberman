@@ -8,6 +8,18 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraActor.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\CinematicCamera\CineCameraActor.generated.h
 C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Inc\PrimeraClase\BoarCamera.generated.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Source\PrimeraClase\Enemigo.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Inc\PrimeraClase\Enemigo.generated.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Source\PrimeraClase\MetalEnemyFactory.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Source\PrimeraClase\EnemyFactory.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Inc\PrimeraClase\EnemyFactory.generated.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Source\PrimeraClase\EnemigoMetal.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Inc\PrimeraClase\EnemigoMetal.generated.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Inc\PrimeraClase\MetalEnemyFactory.generated.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Source\PrimeraClase\WoodEnemyFactory.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Source\PrimeraClase\EnemigoMadera.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Inc\PrimeraClase\EnemigoMadera.generated.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Inc\PrimeraClase\WoodEnemyFactory.generated.h
 C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Inc\PrimeraClase\MyProjectPawn.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
@@ -18,12 +30,6 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
-C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Source\PrimeraClase\EnemigoMetal.h
-C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Source\PrimeraClase\Enemigo.h
-C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Inc\PrimeraClase\Enemigo.generated.h
-C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Inc\PrimeraClase\EnemigoMetal.generated.h
-C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Source\PrimeraClase\EnemigoMadera.h
-C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Inc\PrimeraClase\EnemigoMadera.generated.h
 C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Source\PrimeraClase\Puntuacion.h
 C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Inc\PrimeraClase\Puntuacion.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\EngineUtils.h

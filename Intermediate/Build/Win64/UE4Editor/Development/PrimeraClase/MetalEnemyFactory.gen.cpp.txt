@@ -1,0 +1,11 @@
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\Definitions.PrimeraClase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Source\PrimeraClase/MetalEnemyFactory.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Source\PrimeraClase\EnemyFactory.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Source\PrimeraClase\Enemigo.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Inc\PrimeraClase\Enemigo.generated.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Inc\PrimeraClase\EnemyFactory.generated.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Source\PrimeraClase\EnemigoMetal.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Inc\PrimeraClase\EnemigoMetal.generated.h
+C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Inc\PrimeraClase\MetalEnemyFactory.generated.h

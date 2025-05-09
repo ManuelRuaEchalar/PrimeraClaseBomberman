@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\PrimeraClase.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{08A6D0F2-5633-4084-A4D5-6AC39E12EB08}</UniqueIdentifier>
+      <UniqueIdentifier>{2D71071C-BA49-4852-B923-8B297FBCD0E4}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\PrimeraClase.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,10 @@
     <None Include="..\..\Source\PrimeraClaseEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{B67FD8C2-1620-4DD2-AF86-C1DCEA204997}</UniqueIdentifier>
+      <UniqueIdentifier>{4A8955BD-A56E-4B7E-9FA0-D13F3B84B63D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +29,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\PrimeraClase">
-      <UniqueIdentifier>{B1EB500B-9008-44E3-9CE2-3D2D7CBF7B6B}</UniqueIdentifier>
+      <UniqueIdentifier>{41A7A4F8-8346-460F-97DF-EC8B5536628C}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\PrimeraClase\BoarCamera.cpp">
       <Filter>Source\PrimeraClase</Filter>
@@ -59,6 +61,18 @@
     <ClInclude Include="..\..\Source\PrimeraClase\EnemigoMetal.h">
       <Filter>Source\PrimeraClase</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\PrimeraClase\EnemyFactory.cpp">
+      <Filter>Source\PrimeraClase</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrimeraClase\EnemyFactory.h">
+      <Filter>Source\PrimeraClase</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PrimeraClase\MetalEnemyFactory.cpp">
+      <Filter>Source\PrimeraClase</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrimeraClase\MetalEnemyFactory.h">
+      <Filter>Source\PrimeraClase</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\PrimeraClase\MyProjectPawn.cpp">
       <Filter>Source\PrimeraClase</Filter>
     </ClCompile>
@@ -84,6 +98,12 @@
       <Filter>Source\PrimeraClase</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\PrimeraClase\Puntuacion.h">
+      <Filter>Source\PrimeraClase</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PrimeraClase\WoodEnemyFactory.cpp">
+      <Filter>Source\PrimeraClase</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrimeraClase\WoodEnemyFactory.h">
       <Filter>Source\PrimeraClase</Filter>
     </ClInclude>
   </ItemGroup>

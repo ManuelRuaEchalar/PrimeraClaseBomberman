@@ -1,0 +1,35 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PrimeraClase-1596.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\PrimeraClaseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\BoarCamera.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\Cubo.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\Enemigo.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\EnemigoMadera.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\EnemigoMetal.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\EnemyFactory.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\MetalEnemyFactory.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\MyProjectPawn.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\PrimeraClase.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\PrimeraClaseGameModeBase.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\Puntuacion.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\WoodEnemyFactory.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\BoarCamera.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\Cubo.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\Enemigo.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\EnemigoMadera.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\EnemigoMetal.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\EnemyFactory.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\MetalEnemyFactory.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\MyProjectPawn.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\PrimeraClase.init.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\PrimeraClaseGameModeBase.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\Puntuacion.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\WoodEnemyFactory.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\Default.rc2.res"
+/OUT:"C:\Users\jruae\Documents\Unreal Projects\PrimeraClase\Intermediate\Build\Win64\UE4Editor\Development\PrimeraClase\UE4Editor-PrimeraClase-1596.lib"

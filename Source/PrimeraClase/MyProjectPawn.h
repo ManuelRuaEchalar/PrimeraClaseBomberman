@@ -1,11 +1,13 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
+// MyProjectPawn.h
 #pragma once
 
 #include "CoreMinimal.h"
 #include "GameFramework/Pawn.h"
 #include "Cubo.h"
 #include "BoarCamera.h"
+#include "Enemigo.h"
+#include "MetalEnemyFactory.h"
+#include "WoodEnemyFactory.h"
 #include "MyProjectPawn.generated.h"
 
 UCLASS()
@@ -26,6 +28,23 @@ public:
 	bool bIsMovingLeft;
 	int activo = 0;
 
+	// Fábricas de enemigos
+	UPROPERTY()
+		AMetalEnemyFactory* MetalFactory;
+
+	UPROPERTY()
+		AWoodEnemyFactory* WoodFactory;
+
+	// Array para almacenar enemigos creados
+	UPROPERTY()
+		TArray<AEnemigo*> EnemigosActivos;
+
+	// Timer para creación de enemigos
+	FTimerHandle TimerHandle_SpawnEnemigos;
+
+	// Timer para eliminación de enemigos
+	FTimerHandle TimerHandle_DestroyEnemigos;
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
@@ -45,4 +64,10 @@ public:
 	void startMovingLeft();
 	void stopMovingLeft();
 	void moveLeft();
+
+	// Método para crear enemigos
+	void SpawnEnemigos();
+
+	// Método para eliminar enemigos
+	void DestroyEnemigos();
 };

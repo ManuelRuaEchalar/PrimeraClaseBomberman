@@ -16,7 +16,6 @@ class PRIMERACLASE_API APuntuacion : public AActor
 	GENERATED_BODY()
 
 public:
-	APuntuacion();
 
 	static APuntuacion* GetInstance(UWorld* World);
 
@@ -27,6 +26,7 @@ protected:
 	virtual void BeginPlay() override;
 
 private:
+	APuntuacion();
 	// Única instancia
 	static APuntuacion* Instance;
 

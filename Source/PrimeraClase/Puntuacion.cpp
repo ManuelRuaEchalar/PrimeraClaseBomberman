@@ -12,6 +12,9 @@ APuntuacion::APuntuacion()
 	RootComponent = TextComponent;
 	TextComponent->SetHorizontalAlignment(EHTA_Center);
 	TextComponent->SetWorldSize(100.f);
+	// Giramos 180° en yaw para no ver la cara trasera espejada
+	TextComponent->SetRelativeRotation(FRotator(0.f, 180.f, 0.f));
+
 
 	Score = 0;
 }
@@ -43,8 +46,10 @@ APuntuacion* APuntuacion::GetInstance(UWorld* World)
 	{
 		FActorSpawnParameters Params;
 		Params.Name = TEXT("SingletonPuntuacion");
+		// Aquí usamos tu nueva posición inicial:
+		FVector SpawnLocation(-100.0f, 600.0f, 700.0f);
 		Instance = World->SpawnActor<APuntuacion>(
-			FVector::ZeroVector,
+			SpawnLocation,
 			FRotator::ZeroRotator,
 			Params
 			);
